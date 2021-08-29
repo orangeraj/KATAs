@@ -1,1 +1,1 @@
-# KATA---Python
+# KATA-Python
