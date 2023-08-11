@@ -3,7 +3,7 @@ def square_digits(num):
     num = str(num)
     for i in num:
         op += str(int(i)*int(i))
-    return op
+    return int(op)
 
 
 print(square_digits(765))
